@@ -17,7 +17,7 @@ I'm a physics graduate with a focus on data analysis and Python programming.
 I work with Python, data visualization, and building tools that simplify complex tasks.
 ___
 <p align="left">
-    <img src="https://shop.tau.ac.il/cdn/shop/files/TAU_Logo_Eng_BW_Neg.png?v=1733920489&width=1478" alt="IBM Skills Network Logo" width="150" height="150"/>
+    <img src="https://shop.tau.ac.il/cdn/shop/files/TAU_Logo_Eng_BW_Neg.png?v=1733920489&width=1478" alt="IBM Skills Network Logo" width="150" height="80"/>
 </p>
 
 
